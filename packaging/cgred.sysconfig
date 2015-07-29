@@ -1,0 +1,3 @@
+# cgrulesengd command line options. See cgrulesengd(8).
+OPTIONS="-s -g cgred"
+
